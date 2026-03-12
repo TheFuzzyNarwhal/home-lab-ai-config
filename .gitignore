@@ -1,0 +1,3 @@
+.aiexclude
+.env
+node_modules/
