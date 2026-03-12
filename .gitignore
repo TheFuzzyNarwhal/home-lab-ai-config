@@ -1,3 +1,5 @@
 .aiexclude
 .env
 node_modules/
+book_helper.md
+writing_log.md
